@@ -1,0 +1,11 @@
+{
+    "title":"student",
+    "description":"schema about student",
+    "type":"object",
+    "proprties":{
+        "name":"string",
+        "age":"integer"
+    },
+    "required":["name"]
+
+}
